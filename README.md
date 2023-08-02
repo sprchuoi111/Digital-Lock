@@ -3,7 +3,7 @@ This is our product for Project 1
 
 ------ Description --------
 
-Degital lock is designed for protect basis door home , electical cabinet , cup board , etc.
+Degital lock is designed for protect basic door home , electical cabinet , cup board , etc.
 
 Using basis protocol : Uart , SPI , I2C for connecting device like RFID , LCD ,..
 
