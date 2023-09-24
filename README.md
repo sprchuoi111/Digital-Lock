@@ -10,6 +10,8 @@ Using basis protocol : Uart , SPI , I2C for connecting device like RFID , LCD ,.
 Our product has 2 options : Keyboard or RFID .
 
 This is the first project about design digital system so having few prolems . 
+------FlowChart---------
+![image](https://github.com/sprchuoi111/Digital-Lock/assets/91411014/c4045ed4-6bc9-4f53-bc8d-25be30a2399a)
 
 ------- Download -----------
 
